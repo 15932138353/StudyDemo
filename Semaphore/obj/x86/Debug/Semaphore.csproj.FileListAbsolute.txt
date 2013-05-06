@@ -1,0 +1,9 @@
+D:\demo\wordForm\Semaphore\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\demo\wordForm\Semaphore\obj\x86\Debug\Semaphore.Form1.resources
+D:\demo\wordForm\Semaphore\obj\x86\Debug\Semaphore.Properties.Resources.resources
+D:\demo\wordForm\Semaphore\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\demo\wordForm\Semaphore\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\demo\wordForm\Semaphore\bin\Debug\Semaphore.exe
+D:\demo\wordForm\Semaphore\bin\Debug\Semaphore.pdb
+D:\demo\wordForm\Semaphore\obj\x86\Debug\Semaphore.exe
+D:\demo\wordForm\Semaphore\obj\x86\Debug\Semaphore.pdb

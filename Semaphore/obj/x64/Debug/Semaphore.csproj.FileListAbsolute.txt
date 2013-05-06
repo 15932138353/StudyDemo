@@ -1,0 +1,13 @@
+D:\demo\wordForm\Semaphore\bin\x64\Debug\Semaphore.exe.config
+D:\demo\wordForm\Semaphore\bin\x64\Debug\Semaphore.exe
+D:\demo\wordForm\Semaphore\bin\x64\Debug\Semaphore.pdb
+D:\demo\wordForm\Semaphore\bin\x64\Debug\ReStatusStrip.dll
+D:\demo\wordForm\Semaphore\bin\x64\Debug\RForms.RProgressBar.dll
+D:\demo\wordForm\Semaphore\bin\x64\Debug\ReStatusStrip.pdb
+D:\demo\wordForm\Semaphore\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\demo\wordForm\Semaphore\obj\x64\Debug\Semaphore.Form1.resources
+D:\demo\wordForm\Semaphore\obj\x64\Debug\Semaphore.Properties.Resources.resources
+D:\demo\wordForm\Semaphore\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\demo\wordForm\Semaphore\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\demo\wordForm\Semaphore\obj\x64\Debug\Semaphore.exe
+D:\demo\wordForm\Semaphore\obj\x64\Debug\Semaphore.pdb
